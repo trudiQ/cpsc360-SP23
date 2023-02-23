@@ -36,7 +36,7 @@
   - *Note: if you got errors when running the above command, try **one** of the following*
     - `pip install PyOpenGL PyOpenGL_accelerate`
     - `pip3 install PyOpenGL`
-### Run the helloword code
+### Run the helloworld code
 1. **Download code**
   - Under this github repo, go to Code -> Download Zip
   - Alternatively, ***if you are familiar with git/github***, you may also clone the code from: https://github.com/trudiQ/cpsc360-SP23.git (**pull only**)
